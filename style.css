@@ -126,5 +126,6 @@ ul li:hover a::after {
 @media screen and (max-width: 1040px) {
     ul {
         flex-direction: column;
+        gap: 4rem;
     }
 }
